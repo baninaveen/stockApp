@@ -1,0 +1,14 @@
+.symbol {
+    display:flex;
+    flex-direction: row;
+    flex:1,
+}
+.backBtn {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}

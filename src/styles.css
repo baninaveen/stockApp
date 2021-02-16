@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~ngx-toastr/toastr';
+
+html,
+body { margin: 0; font-family: 'Lato' }
+
+h1 { 
+    font-family: 'Lato'
+}
+
+.full-width {
+    width: 100%;
+}
+.mat-toolbar {
+    background: #0a043c;
+    color: #fff
+}
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mat-line, .mat-subheader {
+    font-family: 'Lato';
+}

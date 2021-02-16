@@ -1,0 +1,39 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "company": "TCS",
+      "symbol": "TCS"
+    },
+    {
+      "id": 2,
+      "company": "Google",
+      "symbol": "GOOGL"
+    },
+    {
+      "id": 3,
+      "company": "Facebook",
+      "symbol": "FBOOK"
+    },
+    {
+      "id": 4,
+      "company": "Infosys",
+      "symbol": "INSYS"
+    },
+    {
+      "id": 5,
+      "company": "Tesla",
+      "symbol": "TSLA"
+    },
+    {
+      "company": "TDJS",
+      "symbol": "CN",
+      "id": 12
+    },
+    {
+      "company": "Tesla",
+      "symbol": "TSLS",
+      "id": 13
+    }
+  ]
+}

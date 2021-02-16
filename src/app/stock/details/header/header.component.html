@@ -1,0 +1,24 @@
+<div>
+    <a class="backBtn" [routerLink]="['/']" routerLinkActive="active">
+        <mat-icon mat-list-icon>
+            keyboard_arrow_left
+        </mat-icon>
+        <p mat-line> back </p>
+      </a>
+    <div class="header-container">
+        <div>
+            <h1>{{stockPayload.company}}</h1>
+            <p class="symbol">
+                <span>Symbol: </span>
+                <span style="font-weight: bold;">{{stockPayload.symbol}}</span>
+            </p>
+        </div>
+        <div>
+            <button mat-raised-button
+                color="warn"
+                (click)="delete()">
+                <mat-icon>delete_outline</mat-icon> Delete
+              </button>
+        </div>
+    </div>
+</div>

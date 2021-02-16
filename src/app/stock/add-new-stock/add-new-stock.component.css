@@ -1,0 +1,8 @@
+
+.container {
+    min-width: 300px;
+
+}
+.save-actions {
+    margin-left: unset !important;
+}

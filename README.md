@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
+## Run Stock App
+
+Run `json-server --watch src/app/server/db.json` to start the json server in one tab.
+
+Run `ng s` to start the angular app in another tab.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
