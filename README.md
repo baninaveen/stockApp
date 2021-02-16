@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
-## Run Stock App
+# How to Run Stock App
 
 Run `npm run dev` to start the json server as well as angular app.
 
