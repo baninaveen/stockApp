@@ -4,9 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Run Stock App
 
-Run `json-server --watch src/app/server/db.json` to start the json server in one tab.
-
-Run `ng s` to start the angular app in another tab.
+Run `npm run dev` to start the json server as well as angular app.
 
 ## Development server
 
